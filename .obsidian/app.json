@@ -1,0 +1,18 @@
+{
+  "livePreview": false,
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "spellcheckDictionary": [
+    "Dagg",
+    "Drukar",
+    "Kyne",
+    "Drene",
+    "et",
+    "Oxy",
+    "Rages"
+  ],
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "_resources"
+}
